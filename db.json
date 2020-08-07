@@ -53,17 +53,6 @@
       { "name": "How I Met Your Mother", "value": 100 }
     ]
   },
-  "filter.channel": {
-    "channel": [
-      { "id": "5bc4d687da4f1f096e217e25", "name": "Pluto TV Election" },
-      { "id": "5268abcd0ce20a8472000114", "name": "Pluto TV News" },
-      { "id": "5ca671f215a62078d2ec0abf", "name": "Comedy Central Pluto TV" }
-    ],
-    "genre": [
-      { "id": 0, "name": "talkShow&Entertainment" },
-      { "id": 1, "name": "sport" }
-    ]
-  },
 
   "summary.Monthly": [
     { "item": "Activation (Accum.)", "valueList": [3125600, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
@@ -312,12 +301,12 @@
         4241412
       ]
     },
-    { "item": "Unique Session", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
-    { "item": "Duration per UD (min)", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
-    { "item": "Access per UD", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
-    { "item": "Return Viewer", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
-    { "item": "New Viewer", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] },
-    { "item": "Return Viewer Rates (%)", "valueList": [312560, 421421, 3124560, 42141, 14124, 24142, 31260, 124142, 241241, 42421421, 42421412, 4241412] }
+    { "item": "Unique Session", "valueList": [1] },
+    { "item": "Duration per UD (min)", "valueList": [2] },
+    { "item": "Access per UD", "valueList": [3] },
+    { "item": "Return Viewer", "valueList": [4] },
+    { "item": "New Viewer", "valueList": [5] },
+    { "item": "Return Viewer Rates (%)", "valueList": [6] }
   ],
 
   "channel.Monthly": [
