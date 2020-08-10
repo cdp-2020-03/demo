@@ -2,7 +2,7 @@
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-[https://my-json-server.typicode.com/cdp-2020-03/demo/vod.bar]
+https://my-json-server.typicode.com/cdp-2020-03/demo/vod.bar
 
 ## Use your own data
 
