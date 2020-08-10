@@ -182,23 +182,11 @@
         0,
         0
       ]
-    },
-    {
-      "item": "Access",
-      "valueList": [
-        31260,
-        124142
-      ]
-    },
-    { "item": "Unique Session", "valueList": [1] },
-    { "item": "Duration per UD (min)", "valueList": [2] },
+    }
   ],
    "channel.Monthly": [
-    { "item": "Activation (Accum.)", "valueList": [3125600, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Activation", "valueList": [76547, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Deactivation", "valueList": [76547, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
     { "item": "Unique Device", "valueList": [312560, 421421, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Total Duration (hr)", "valueList": [312560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
+    { "item": "Total Duration (hr)", "valueList": [312560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
   ],
   "channel.Weekly": [
     { "item": "Activation (Accum.)", "valueList": [50000, 40000, 30000, 20000, 10000, 0, 0] },
@@ -215,11 +203,8 @@
     { "item": "Return Viewer Rates (%)", "valueList": [312560, 421421, 0, 0, 0, 0, 0] }
   ],
   "vod.Monthly": [
-    { "item": "Activation (Accum.)", "valueList": [3125600, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Activation", "valueList": [76547, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Deactivation", "valueList": [76547, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
     { "item": "Unique Device", "valueList": [312560, 421421, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
-    { "item": "Total Duration (hr)", "valueList": [312560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
+    { "item": "Total Duration (hr)", "valueList": [312560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
   ],
   "vod.Weekly": [
     { "item": "Activation (Accum.)", "valueList": [50000, 40000, 30000, 20000, 10000, 0, 0] },
